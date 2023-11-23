@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sanjayv
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dm in telegram Gaming057
+- 🌱 I’m currently learning web engineering
+- 💞️ I’m looking to collaborate on web engineering
+- 📫 How to reach me dm in telegram sanjayv057 
 
 <!---
 Sanjayv-cloud/Sanjayv-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
